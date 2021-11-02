@@ -1,4 +1,4 @@
-# Wander Araújo :wave:
+
 
 ### Helo!!! Wellcome to my profile!!!
 
