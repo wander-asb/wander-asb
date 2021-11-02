@@ -2,7 +2,7 @@
 
 ### Helo!!! Wellcome to my profile!!!
 
-<img src="https://c.tenor.com/ioHaQsQuCxwAAAAC/charizard-pokemon.gif" width="40" height="40" />
+<img src="https://c.tenor.com/ioHaQsQuCxwAAAAC/charizard-pokemon.gif" width="100" height="100" />
 
 My name is Wander Araújo, I am currently a software engineering student and i love work with data and artificial intelligence.
 
