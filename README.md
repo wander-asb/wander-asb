@@ -1,6 +1,6 @@
 
 
-### Opa, tudo bom? Seja bem vinde ao meu perfil! 
+## Opa, tudo bom? Seja bem vinde ao meu perfil! 
 -----
 * Trainee Digital em anaálise de dados - Bemol Digital
 * Iniciação científica - PIBIC
