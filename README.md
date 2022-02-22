@@ -1,6 +1,7 @@
 
 
 ### Opa, tudo bom? Seja bem vinde ao meu perfil! 
+_____
 
 * Trainee Digital em anaálise de dados - Bemol Digital
 * Iniciação científica - PIBIC
