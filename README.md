@@ -10,7 +10,7 @@ Estudante de Engenharia de Software pelo Insituto Federal do Amazonas, me especi
 ## Experiência com:
 * Construção de indicadores de desempenho, risco e fraude relacionado a produtos do varejo;
 * Criação de regras de negócios para auditoria e crédito;
-* Testes A/B em demandas de expecimentação relacionados aos produtos de Growth;
+* Testes A/B em demandas de experimentação em Growth;
 * Desenvolvimento de modelagens de regras que visam otimizar processos;
 * Classificação de imagens através de Redes Neurais Convolucionais;
 * ***Outros***: Educação e metodologia ágil;
