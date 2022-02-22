@@ -1,7 +1,7 @@
 
 
 ## Opa, tudo bom? Seja bem vinde ao meu perfil! 
-* Trainee Digital em anaálise de dados - Bemol Digital
+* Trainee Digital em análise de dados - Bemol Digital
 * Iniciação científica - PIBIC
 * Engenharia de Software - IFAM
 
