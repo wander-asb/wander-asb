@@ -5,7 +5,7 @@
 * Iniciação científica - PIBIC
 * Engenharia de Software - IFAM
 
-Estudante de Engenharia de Software pelo Insituto Federal do Amazonas, me aperfeiçei em cursos de extenção vinculado à ciência de dados pelo Projeto Aranouá, que me garantiu bolsa de insentivo e profissionalização. Vale salientar que, realizo pesquisa acadêmica com foco em aprendizado de máquina em projetos de iniciação científica. Assim como, estagiei em análise de dados em auditoria, mas hodienamente atuo como Trainee Digital no time de Data Science na Bemol Digital voltado ao produto de crédito.
+Estudante de Engenharia de Software pelo Insituto Federal do Amazonas, me aperfeiçei em cursos de extenção vinculado à ciência de dados pelo Projeto Aranouá, que me garantiu bolsa de insentivo e profissionalização. Vale salientar que, realizo pesquisa acadêmica com foco em aprendizado de máquina em projetos de iniciação científica. Assim como, estagiei em análise de dados de prevenção à fraude com a auditoria, mas hodienamente atuo como Trainee Digital no time de Data Science na Bemol Digital, especificamente,  voltado ao produto de crédito.
 
 ## Experiência com:
 * Construção de indicadores de desempenho, risco e fraude relacionado a produtos do varejo e crédito;
