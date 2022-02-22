@@ -1,13 +1,18 @@
 
 
 ## Opa, tudo bom? Seja bem vinde ao meu perfil! 
------
 * Trainee Digital em anaálise de dados - Bemol Digital
 * Iniciação científica - PIBIC
 * Engenharia de Software - IFAM
 
 Estudante de Engenharia de Software pelo Insituto Federal do Amazonas, me aperfeiçei em cursos de extenção vinculado à ciência de dados pelo Projeto Aranouá, que me garantiu bolsa de insentivo e profissionalização. Vale salientar que, realizo pesquisa acadêmica com foco em aprendizado de máquina em projetos de iniciação científica. Assim como, também atuo como Trainee Digital no time de Data Science na Bemol Digital, especificamente, voltado ao produto de crédito.
-----
+
+## Experiência com:
+* Construção de indicadores de desempenho, risco e fraude relacionado a produtos do varejo e crédito;
+* Criação de regras de negócios para o varejo;
+* Desenvolvimento de modelagens de regras que visam otimizar processos;
+* Classificação de imagens através de Redes Neurais Convolucionais;
+* ***Outros***: Educação e metodologia ágil 
 
 <img src="https://data.whicdn.com/images/97191377/original.gif" width="500" height="375" />
 
