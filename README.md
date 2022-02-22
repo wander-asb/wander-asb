@@ -12,7 +12,14 @@ Estudante de Engenharia de Software pelo Insituto Federal do Amazonas, me aperfe
 * Criação de regras de negócios para o varejo;
 * Desenvolvimento de modelagens de regras que visam otimizar processos;
 * Classificação de imagens através de Redes Neurais Convolucionais;
-* ***Outros***: Educação e metodologia ágil 
+* ***Outros***: Educação e metodologia ágil;
+
+## Frameworks:
+* Trabalho com criação de métricas e otimização de processos com Pyspark;
+* Em demandas de Growth, utilizo visualização de dados para interpretar distribuição de clientese métricas do experimento;
+* Desenvolvi pesquisa acadêmica na parte de Redes Neurais com Pytorh;
+* Na parte de augmentation, notadamente, aplicação de filtros de segmentação em imagens, utilizei pandas e numpy.
+* 
 
 <img src="https://data.whicdn.com/images/97191377/original.gif" width="500" height="375" />
 
