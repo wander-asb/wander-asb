@@ -1,6 +1,10 @@
 
 
-### Helo!!! Wellcome to my profile!!!
+### Opa, tudo bom? Seja bem vinde ao meu perfil! 
+
+* Trainee Digital em anaálise de dados - Bemol Digital
+* Iniciação científica - PIBIC
+* Engenharia de Software - IFAM
 
 <img src="https://data.whicdn.com/images/97191377/original.gif" width="500" height="375" />
 
