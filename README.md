@@ -8,8 +8,8 @@
 Estudante de Engenharia de Software pelo Insituto Federal do Amazonas, me especializei em cursos de extenção vinculado à ciência de dados pelo Projeto Aranouá, que me garantiu bolsa de insentivo e profissionalização. Realizo pesquisa acadêmica com foco em aprendizado de máquina em projetos de iniciação científica. Durante o último semestre de 2021 estagiei em análise de dados de prevenção à fraude, mas hodienamente atuo como Trainee Digital no time de Data Science na Bemol Digital, especificamente,  voltado ao produto de crédito.
 
 ## Experiência com:
-* Construção de indicadores de desempenho, risco e fraude relacionado a produtos do varejo e crédito;
-* Criação de regras de negócios para o varejo;
+* Construção de indicadores de desempenho, risco e fraude relacionado a produtos do varejo;
+* Criação de regras de negócios para auditoria e crédito;
 * Testes A/B em demandas de expecimentação relacionados aos produtos de Growth;
 * Desenvolvimento de modelagens de regras que visam otimizar processos;
 * Classificação de imagens através de Redes Neurais Convolucionais;
