@@ -19,9 +19,6 @@ Estudante de Engenharia de Software pelo Insituto Federal do Amazonas, me aperfe
 * Trabalho com criação de métricas e otimização de processos com Pyspark;
 * Em demandas de Growth, utilizo visualização de dados para interpretar distribuição de clientese métricas do experimento;
 * Desenvolvi pesquisa acadêmica na parte de Redes Neurais com Pytorh;
-* Na parte de augmentation, notadamente, aplicação de filtros de segmentação em imagens, utilizei pandas e numpy.
+* Na parte de augmentation, notadamente, aplicação de filtros de segmentação em imagens, utilizei pandas e numpy;
 
 
-
-* :man_technologist: I'm Data Analyst at [Bemol Digital](https://bemoldigital.com.br/).
-* :robot: I'm a scientific initiation scholarship student in Convolutional Neural Network at [Instituto Federal do Amazonas](http://www2.ifam.edu.br/).
