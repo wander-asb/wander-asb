@@ -10,6 +10,7 @@ Estudante de Engenharia de Software pelo Insituto Federal do Amazonas, me aperfe
 ## Experiência com:
 * Construção de indicadores de desempenho, risco e fraude relacionado a produtos do varejo e crédito;
 * Criação de regras de negócios para o varejo;
+* Testes A/B em demandas de expecimentação relacionados aos produtos de Growth;
 * Desenvolvimento de modelagens de regras que visam otimizar processos;
 * Classificação de imagens através de Redes Neurais Convolucionais;
 * ***Outros***: Educação e metodologia ágil;
@@ -19,11 +20,8 @@ Estudante de Engenharia de Software pelo Insituto Federal do Amazonas, me aperfe
 * Em demandas de Growth, utilizo visualização de dados para interpretar distribuição de clientese métricas do experimento;
 * Desenvolvi pesquisa acadêmica na parte de Redes Neurais com Pytorh;
 * Na parte de augmentation, notadamente, aplicação de filtros de segmentação em imagens, utilizei pandas e numpy.
-* 
 
-<img src="https://data.whicdn.com/images/97191377/original.gif" width="500" height="375" />
 
-My name is Wander Araújo, I am currently a software engineering student and i love work with data and artificial intelligence.
 
 * :man_technologist: I'm Data Analyst at [Bemol Digital](https://bemoldigital.com.br/).
 * :robot: I'm a scientific initiation scholarship student in Convolutional Neural Network at [Instituto Federal do Amazonas](http://www2.ifam.edu.br/).
