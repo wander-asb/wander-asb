@@ -20,6 +20,6 @@ Estudante de Engenharia de Software pelo Insituto Federal do Amazonas, me especi
 * Em demandas de Growth, utilizo visualização de dados para interpretar distribuição de clientes e métricas do experimento;
 * Desenvolvi pesquisa acadêmica na parte de Redes Neurais com Pytorch;
 * Utilizei plotly no desenvolvimento de uma pequena documentação de visualização de dados para melhorar a cultura Data Driven na plataforma Databricks;
-* Na parte de tratamento e augmentation, notadamente em pesquisa acadêmica, aplicação de filtros de segmentação em imagens utilizando pandas e numpy;
+* Na parte de tratamento e augmentation, notadamente em pesquisa acadêmica, utilizei pandas e numpy a fim de aplicar filtros de segmentação em imagens e balanceamento de base de dados com transferência de arquivos entre pastas;
 
 
