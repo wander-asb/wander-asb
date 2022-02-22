@@ -17,7 +17,7 @@ Estudante de Engenharia de Software pelo Insituto Federal do Amazonas, me aperfe
 
 ## Frameworks:
 * Trabalho com criação de métricas e otimização de processos com Pyspark;
-* Em demandas de Growth, utilizo visualização de dados para interpretar distribuição de clientese métricas do experimento;
+* Em demandas de Growth, utilizo visualização de dados para interpretar distribuição de clientes e métricas do experimento;
 * Desenvolvi pesquisa acadêmica na parte de Redes Neurais com Pytorh;
 * Na parte de augmentation, notadamente, aplicação de filtros de segmentação em imagens, utilizei pandas e numpy;
 
