@@ -1,6 +1,6 @@
 
 
-## Opa, tudo bom? Seja bem vinde ao meu perfil! :wave:
+## Opa, tudo bom? Seja bem vindo ao meu perfil! :wave:
 * Trainee Digital | Time de Data Science - Bemol Digital
 * Iniciação científica - PIBIC
 * Engenharia de Software - IFAM
