@@ -2,7 +2,6 @@
 
 ## Seja bem vindo ao meu perfil! :wave:
 * Trainee Digital | Time de Data Science - Bemol Digital
-* Iniciação científica - PIBIC
 * Engenharia de Software - IFAM
 
 Graduando de Engenharia de Software pelo Insituto Federal do Amazonas, realizei cursos de extenção vinculado à ciência de dados pela faculdade, participo de pesquisa acadêmica com foco em aprendizado de máquina. Fui estagiário de Análise de Dados de prevenção à fraude dentro do departamento de audiotria, hodiernamente exerço função como Trainee Digital no time de Data Science na Bemol Digital, especificamente, voltado à análises e experimentações de modelos de machine learning relacionados à produtos de crédito.
