@@ -1,7 +1,7 @@
 
 
 ## Seja bem vindo ao meu perfil! :wave:
-* Trainee Digital | Time de Data Science - Bemol Digital
+* IA Engineer | Data Science - Bemol Digital
 * Engenharia de Software - IFAM
 
 Graduando em Engenharia de Software no Instituto Federal do Amazonas (IFAM), participei da Olimpíada Brasileira de Informática (OBI), Olimpíada Brasileira de Inteligência Artificial e trabalhos voluntários dentro do campus. Fui aluno bolsista, no qual me auxiliou a me capacitar em ciência de dados, participei de projetos de extensão vinculado à pesquisa acadêmica com foco em Deep Learning. 
