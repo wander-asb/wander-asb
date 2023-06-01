@@ -4,11 +4,11 @@
 * IA Engineer | Data Science - Bemol Digital
 * Engenharia de Software - IFAM
 
-Graduando em Engenharia de Software no Instituto Federal do Amazonas (IFAM), participei da Olimpíada Brasileira de Informática (OBI), Olimpíada Brasileira de Inteligência Artificial e trabalhos voluntários dentro do campus. Fui aluno bolsista, no qual me auxiliou a me capacitar em ciência de dados, participei de projetos de extensão vinculado à pesquisa acadêmica com foco em Deep Learning. 
+Em meados de 2021, ingressei como estagiário no time de Data Science na Bemol Digital, uma empresa inovadora no setor varejista. Foi nessa posição que tive a oportunidade de adquirir conhecimentos práticos em otimização de processos, prevenção de fraudes e construção de indicadores de desempenho para produtos varejistas. Aprendi a utilizar técnicas avançadas para melhorar a eficiência operacional e garantir a segurança das transações comerciais.
 
-Em meados ao 2° e 3° período da graduação iniciei como estagiário dentro do time de Data Science na Bemol Digital com foco em otimização de processos, modelo de regras, prevenção à fraudes e construção de indicadores de desempenho para produtos do Varejo.
+Após o estágio, fui promovido a Trainee Digital, onde assumi responsabilidades ainda maiores. Nessa posição, trabalhei intensamente com análise de dados e experimentação de modelos de Machine Learning na área de Crédito. Fui desafiado a encontrar soluções inovadoras e precisas para a avaliação de crédito, contribuindo para a mitigação de riscos e a tomada de decisões embasadas em dados.
 
-Hoje atuo como Trainee Digital dentro do time de Data Science na Bemol Digital, exerço funções relacionadas à análise de dados e experimentação de modelos de Machine Learning na parte de Crédito. Meu objetivo profissional visa alcançar áreas de negócios, com comunicação flexibilizada orientada a dados (Storytelling), desenvolver perfil profissional e compartilhar resultado com as pessoas.
+Hoje, ocupo o cargo de AI Engineer e estou empolgado com as oportunidades que se apresentam diante de mim. Meu objetivo profissional é sempre buscar áreas de negócios onde posso aplicar minha expertise em comunicação orientada a dados. Almejo desenvolver um perfil analítico cada vez mais sólido e compartilhar os resultados alcançados com as pessoas ao meu redor.
 
 ## Experiência com:
 * Otimização de processos;
