@@ -1,7 +1,7 @@
 
 
 ## Seja bem vindo ao meu perfil! :wave:
-* IA Engineer | Data Science - Bemol Digital
+* IA Engineer II | Data Science - Bemol Digital
 * Engenharia de Software - IFAM
 
 Engenheiro de IA apaixonado por desenvolvimento e implementação de algoritmos de aprendizado de máquina e redes neurais. Experiência em análise de dados e modelagem preditiva. Colaborativo por natureza, busco constantemente novas maneiras de otimizar processos e aprimorar o desempenho. Acredito firmemente no potencial transformador da IA e estou empenhado em aplicar minhas habilidades para impulsionar a inovação e melhorar a vida das pessoas.
