@@ -16,7 +16,7 @@ Atuação focada na área de Dados e Analytics, com experiência no desenvolvime
 * Realização de testes A/B para otimizar produtos de crédito e melhorar a experiência do usuário;
 * Implementação de algoritmos de pré-processamento e segmentação de imagens utilizando a biblioteca OpenCV, visando melhorar a precisão e eficiência dos modelos;
 
-## Pesquisas submetidas ou publicadas:
+
 
 
 
