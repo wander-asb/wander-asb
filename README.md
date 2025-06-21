@@ -39,6 +39,6 @@ Atuo na área de Dados e Analytics, com foco no desenvolvimento e implementaçã
 ---
 
 ## 🔗 Vamos nos conectar!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)]([https://www.linkedin.com/in/seu-linkedin/](https://www.linkedin.com/in/wanderasb/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/wanderasb/)
 
 
