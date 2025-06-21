@@ -1,7 +1,7 @@
 
 
 ## Seja bem vindo ao meu perfil! :wave:
-* Data Analyst II | Data Science - Blip
+* Data Analyst II | Data Science 
 * Engenharia de Software - IFAM
 
 Atuação focada na área de Dados e Analytics, com experiência no desenvolvimento e implementação de algoritmos para otimização de pipelines e modelagem de dados. Contribuição na criação de soluções estratégicas que potencializam a tomada de decisão orientada por dados em áreas como crédito, empréstimos e marketing.
