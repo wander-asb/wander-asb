@@ -1,12 +1,12 @@
 
-## 🔗 Vamos nos conectar!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/wanderasb/)
 
 ## 👋 Seja bem-vindo ao meu perfil!
 
 ### 🚀 Sobre mim
 - **Data Analyst II | Data Science**
 - **Graduando em Engenharia de Software - IFAM**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/wanderasb/)
 
 Atuo na área de Dados e Analytics, com foco no desenvolvimento e implementação de algoritmos, otimização de pipelines e modelagem de dados. Tenho experiência na criação de soluções que impulsionam a tomada de decisões orientadas por dados em setores como crédito, empréstimos, marketing e energia.
 
