@@ -1,12 +1,10 @@
 
 <p align="left" style="display: flex; align-items: center; gap: 10px;">
-  <span style="font-size: 1.5em; font-weight: bold;">👋 Seja bem-vindo ao meu perfil!</span>
+  <span style="font-size: 1.5em; font-weight: bold;"></span>
   <a href="https://www.linkedin.com/in/wanderasb/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
 </p>
-
-### 🚀 Sobre mim
 
 ## 👋 Seja bem-vindo ao meu perfil!
 
